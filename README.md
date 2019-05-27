@@ -1,4 +1,4 @@
-# DATA-2040-Final-Project
+# A Deep Learning Examination of Facial Attraction
 
 Link to medium blog post below:
 
